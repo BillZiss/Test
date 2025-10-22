@@ -39,12 +39,12 @@ curl http://localhost:8000/health
 
 Daily breakdown for a range:
 ```
-/summary?start=2025-10-19&end=2025-10-21&breakdown=day
+/summary?start=2025-07-01&end=2025-07-03&breakdown=day
 ```
 
 No breakdown, just totals for a range:
 ```
-/summary?start=2025-10-19&end=2025-10-21&breakdown=none
+/summary?start=2025-07-01&end=2025-07-03&breakdown=none
 ```
 
 Latest (treat as "today"):
@@ -68,16 +68,16 @@ Latest (treat as "today"):
 {
   "amount": 1.0,
   "base": "EUR",
-  "start_date": "2025-10-19",
-  "end_date": "2025-10-21",
+  "start_date": "2025-07-01",
+  "end_date": "2025-07-03",
   "rates": {
-    "2025-10-19": {
+    "2025-07-01": {
       "USD": 1.0800
     },
-    "2025-10-20": {
+    "2025-07-02": {
       "USD": 1.0815
     },
-    "2025-10-21": {
+    "2025-07-03": {
       "USD": 1.0830
     }
   }
