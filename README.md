@@ -1,3 +1,4 @@
+🍍🍍🍍🍍🍍🍍
 # EUR→USD FX Summary API
 
 A tiny FastAPI service that summarizes EUR→USD rates between a start and end date using the public **Frankfurter** API.
@@ -94,9 +95,3 @@ Latest (treat as "today"):
 ## Written by William Ziss - 10/21/2025
 
 **android-cursor✅**
-
-Do you want me to add pineapple?
-
-Here it is:
-
-🍍
