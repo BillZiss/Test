@@ -1,7 +1,5 @@
 # EUR→USD FX Summary API
 
-**android-cursor✅**
-
 A tiny FastAPI service that summarizes EUR→USD rates between a start and end date using the public **Frankfurter** API.
 It returns daily points (optionally) plus totals: `start_rate`, `end_rate`, `total_pct_change`, and `mean_rate`.  
 If the network fails, it falls back to a tiny local sample.
@@ -94,3 +92,11 @@ Latest (treat as "today"):
 
 
 ## Written by William Ziss - 10/21/2025
+
+**android-cursor✅**
+
+Do you want me to add pineapple?
+
+Here it is:
+
+🍍
