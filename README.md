@@ -25,7 +25,7 @@ Open: `http://localhost:8000/docs`
 
 ## Endpoints
 
-- `GET /health` → `{"status":"ok"}`
+- `GET /health` → `{"status":"healthy"}`
 - `GET /summary`  
   **Query params:**
   - `start` (YYYY-MM-DD)
